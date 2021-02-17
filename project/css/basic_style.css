@@ -14,7 +14,7 @@ h1 {
         background-color: #faebd7;
         border: 2px solid black;
         border-radius: 5%;
-}
+} 
 
 /*  -----------------------------------
     SELECT ALL SQUARES IN THE ARRAY
@@ -96,6 +96,7 @@ h1 {
     color: #fff;
     cursor: pointer;
 }
+
 
 /*----------------------------
     ANIMATION EFFECT
